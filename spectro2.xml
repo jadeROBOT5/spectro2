@@ -76,7 +76,4 @@
       <block type="movement_stop" id="371"></block>
     </next>
   </block>
-  <block type="sensor_object" id="85" x="664" y="451">
-    <field name="OBJECT">LEFTFRONT</field>
-  </block>
 </xml>
